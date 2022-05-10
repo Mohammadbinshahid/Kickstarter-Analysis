@@ -7,7 +7,7 @@ Helping upcoming playwrite Louise to find out how different crowd funding campai
 Sorting data to requirement to dive deep into relevant data for Theatre & Plays category with respect to launch dates and funding goals
 ### Analysis of Outcomes Based on Launch Date
 1. Maximum successful Outcomes were launched in May
-2. Percentage & number of successful campaigns in were highest in May and June
+2. Percentage & number of successful campaigns were highest in May and June
 ### Analysis of Outcomes Based on Goals
 1. Highest percentage of successful campaigns were based on a goal less than 1000 (76%)
 2. With the funding Target in mind, goal between $5000 and $9999 was 55% successful and is most relevant however campaigns <$5000 & >1000 have a 73% success rate. 
